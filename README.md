@@ -26,3 +26,5 @@ Enter a city name and click Search to view real-time weather details instantly.
 
 Integrated real-time API data, implemented async JavaScript, and created an interactive UI with dynamic weather animations
 
+## 🔗 Live Demo
+https://shreyagupta5.github.io/WeatherDashboard/
